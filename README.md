@@ -9,7 +9,7 @@ This a demo for uploading image to MySQL database using PHP.
 
 ## Support & Project Status
 
-A regularly patched, proprietary licensed application-as-a-service version, fully maintained for subscribers and clients, is available upon request (limited availability) and is currently priced at £10.00/month.
+
 
 
 
