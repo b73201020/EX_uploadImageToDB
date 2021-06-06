@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>所以照片</title>
+<title>所有照片</title>
 </head>
 
 <body>
-<h1>所以照片</h1>
+<h1>所有照片</h1>
 <a href="index.html">上傳照片</a>
 <?php
 $IP = "localhost";
